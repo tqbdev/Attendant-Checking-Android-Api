@@ -1,5 +1,5 @@
 <?php
-$connect = mysqli_connect("localhost","id5355724_hcmusattendance","123456","id5355724_demo");
+$connect = mysqli_connect("localhost","id7533871_hcmusattendance","123456","id7533871_kcpm");
 
 
 if(isset($_POST['log']))
